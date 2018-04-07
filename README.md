@@ -1,5 +1,5 @@
 # ScraperLogin
-Login response test
+Login response test, written in Java.
 
 To run:
 - Check out or download the project
